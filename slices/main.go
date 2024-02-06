@@ -75,5 +75,4 @@ func main() {
 	newMatrix := createMatrix(5, 5)
 	fmt.Printf("Printing New Matrix \n")
 	printMatrix(newMatrix)
-
 }
